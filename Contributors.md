@@ -35,6 +35,7 @@
 - [Treasure Ajefu](https://github.com/cybergeni)
 - [Milind jamnekar](https://github.com/Milind-Jamnekar)
 - [MI RAKIB](https://github.com/mirakib)
+- [Sohan Bhoyar](https://github.com/electricsohan)
 - [Christina Varghese](https://github.com/christinichka)
 - [Happy Francis Atta Baffo](https://github.com/baffoatta/)
 - [Smit Jani](https://github.com/smitj23)
